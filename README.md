@@ -45,3 +45,6 @@ create an IpWidget that displays a view of the 3 planes (similar to ItkSnap) and
 the user to select the location of each plane with an [IntSlider](https://ipywidgets.readthedocs.io/en/7.6.2/examples/Widget%20List.html#IntSlider).
 
 Similar to the image bellow:
+
+![widget](https://github.com/olmozavala/ds_health_assignment_itksnap/blob/main/Answer.png?raw=true)
+
